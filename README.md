@@ -1,10 +1,9 @@
-# Hello world with Express
+# The to-do app
 
-The template provides the most basic starting point of a node app.
-Feel free to modify it and see the website updated in real time!
+The app shows you around the basic things: express framework, pug template engine, ...
 
-## Next step
+Try to modify each file and check out the app changes in real time.
 
-To make the app more interesting, you can add more NPM packages to the app.
-Simply modify package.json and add the packages you want to the "dependencies"
-section. The packages will be installed automatically.
+---
+
+Made by the Postverta team on [Postverta](http://postverta.com)
