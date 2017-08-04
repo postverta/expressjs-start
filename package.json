@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/postverta/expressjs-start#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.3",
+    "body-parser": "^1.17.2"
   }
 }

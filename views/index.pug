@@ -1,0 +1,21 @@
+doctype html  
+html(lang='en')  
+ head
+   title Happy building with Postverta
+   link(rel='stylesheet', href='main.css', type='text/css' )
+ body
+   h1 Hi!
+   p This is a simple To-do app built and deployed with the awesome 
+     a(href="postverta.com") Postverta
+     |. Enjoy!
+   if todos.length > 0
+     h2 Things to do:
+     ul
+       each item in todos
+         li= item
+   else
+     h2 Nothing to do right now☀️
+   h2 Add more stuff
+   form(action='/add', method='POST')
+     input(type='text', name='todo', placeholder='Buy milk on the way home')
+     button(type='submit') Add
