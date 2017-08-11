@@ -1,6 +1,6 @@
 # The to-do app
 
-[![Run with Postverta badge](http://postverta.io/badge.svg)](https://postverta.io/direct/postverta/expressjs-start)
+[![Run with Postverta badge](http://postverta.io/badge.svg)](http://postverta.io/direct/postverta/expressjs-start)
 
 The app shows you around the basic things: express framework, pug template engine, ...
 
